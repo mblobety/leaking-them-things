@@ -1,0 +1,4 @@
+"AadClientId": "bc4be374-8b28-4a89-a45b-4bb839f380a0",
+"AadSecret": "rPk8Q~FGglDU65b5If3UC.YmDtAns3N-xCCC4cWq",
+"AadTenantDomain": "swisscom.onmicrosoft.com",
+"AadTenantId": "364e5b87-c1c7-420d-9bee-c35d19b557a1",
